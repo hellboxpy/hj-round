@@ -1,12 +1,16 @@
 [[source]]
-name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
+name = "pypi"
 
 [dev-packages]
 
 [packages]
-hellbox = {git = "git://github.com/hellboxpy/hellbox.git"}
+fontmake = "*"
+ttfautohint-py = "*"
+afdko = "*"
+fonttools = "*"
+hellbox = {editable = true,git = "git@github.com/hellboxpy/hellbox.git"}
 
 [requires]
-python_version = "3.7"
+python_version = "3.7.3"
