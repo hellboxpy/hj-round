@@ -4,9 +4,10 @@ This project is a demonstration of how hellbox builds font files.
 
 To try this project:
 1. Clone this repository
-2. Install the `hell` CLI
-3. Install `pipenv`
-3. Run `hell install` and `hell` run
+2. Install the [`hell`](https://github.com/hellboxpy/hell) CLI
+3. Install [`pipenv`](https://pipenv.readthedocs.io/en/latest/#install-pipenv-today)
+4. Run `hell install` to get the python dependencies
+5. Run `hell run` to build the font files
 
 ## Dependencies
 
