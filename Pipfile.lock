@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "5efc37807957037cfc02b9f25436377e5441a782492536846dc744f09bd4e619"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "hellbox": {
+            "git": "git://github.com/hellboxpy/hellbox.git",
+            "ref": "00b23cff70c99c0b424d7e6ff86d7d7b5c86acdf"
+        }
+    },
+    "develop": {}
+}

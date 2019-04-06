@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T.mod06" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="314.0" y="346.0" type="curve" smooth="yes"/>
+      <point x="330.0" y="346.0"/>
+      <point x="343.0" y="359.0"/>
+      <point x="343.0" y="375.0" type="curve" smooth="yes"/>
+      <point x="343.0" y="392.0"/>
+      <point x="330.0" y="404.0"/>
+      <point x="314.0" y="404.0" type="curve" smooth="yes"/>
+      <point x="297.0" y="404.0"/>
+      <point x="284.0" y="392.0"/>
+      <point x="284.0" y="375.0" type="curve" smooth="yes"/>
+      <point x="284.0" y="359.0"/>
+      <point x="297.0" y="346.0"/>
+    </contour>
+    <contour>
+      <point x="215.0" y="375.0" type="curve" smooth="yes"/>
+      <point x="215.0" y="359.0"/>
+      <point x="228.0" y="346.0"/>
+      <point x="245.0" y="346.0" type="curve" smooth="yes"/>
+      <point x="261.0" y="346.0"/>
+      <point x="274.0" y="359.0"/>
+      <point x="274.0" y="375.0" type="curve" smooth="yes"/>
+      <point x="274.0" y="392.0"/>
+      <point x="261.0" y="404.0"/>
+      <point x="245.0" y="404.0" type="curve" smooth="yes"/>
+      <point x="228.0" y="404.0"/>
+      <point x="215.0" y="392.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>T.mod06</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

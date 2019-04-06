@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.mod03" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="174.0" y="553.0" type="curve" smooth="yes"/>
+      <point x="158.0" y="553.0"/>
+      <point x="145.0" y="566.0"/>
+      <point x="145.0" y="582.0" type="curve" smooth="yes"/>
+      <point x="145.0" y="598.0"/>
+      <point x="158.0" y="611.0"/>
+      <point x="174.0" y="611.0" type="curve" smooth="yes"/>
+      <point x="191.0" y="611.0"/>
+      <point x="204.0" y="598.0"/>
+      <point x="204.0" y="582.0" type="curve" smooth="yes"/>
+      <point x="204.0" y="566.0"/>
+      <point x="191.0" y="553.0"/>
+    </contour>
+    <contour>
+      <point x="274.0" y="582.0" type="curve" smooth="yes"/>
+      <point x="274.0" y="566.0"/>
+      <point x="261.0" y="553.0"/>
+      <point x="244.0" y="553.0" type="curve" smooth="yes"/>
+      <point x="228.0" y="553.0"/>
+      <point x="215.0" y="566.0"/>
+      <point x="215.0" y="582.0" type="curve" smooth="yes"/>
+      <point x="215.0" y="598.0"/>
+      <point x="228.0" y="611.0"/>
+      <point x="244.0" y="611.0" type="curve" smooth="yes"/>
+      <point x="261.0" y="611.0"/>
+      <point x="274.0" y="598.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>I.mod03</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.mod05" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="384" y="415" type="curve" smooth="yes"/>
+      <point x="367" y="415"/>
+      <point x="355" y="428"/>
+      <point x="355" y="444" type="curve" smooth="yes"/>
+      <point x="355" y="461"/>
+      <point x="367" y="473"/>
+      <point x="384" y="473" type="curve" smooth="yes"/>
+      <point x="400" y="473"/>
+      <point x="414" y="461"/>
+      <point x="414" y="444" type="curve" smooth="yes"/>
+      <point x="414" y="428"/>
+      <point x="400" y="415"/>
+    </contour>
+    <contour>
+      <point x="173" y="415" type="curve" smooth="yes"/>
+      <point x="158" y="415"/>
+      <point x="144" y="427"/>
+      <point x="144" y="444" type="curve" smooth="yes"/>
+      <point x="144" y="461"/>
+      <point x="158" y="473"/>
+      <point x="173" y="473" type="curve" smooth="yes"/>
+      <point x="190" y="473"/>
+      <point x="203" y="461"/>
+      <point x="203" y="444" type="curve" smooth="yes"/>
+      <point x="203" y="427"/>
+      <point x="190" y="415"/>
+    </contour>
+    <contour>
+      <point x="133" y="444" type="curve" smooth="yes"/>
+      <point x="133" y="427"/>
+      <point x="120" y="415"/>
+      <point x="103" y="415" type="curve" smooth="yes"/>
+      <point x="88" y="415"/>
+      <point x="74" y="427"/>
+      <point x="74" y="444" type="curve" smooth="yes"/>
+      <point x="74" y="461"/>
+      <point x="88" y="473"/>
+      <point x="103" y="473" type="curve" smooth="yes"/>
+      <point x="120" y="473"/>
+      <point x="133" y="461"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E.mod05</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T.mod03" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="215" y="582" type="curve" smooth="yes"/>
+      <point x="215" y="566"/>
+      <point x="228" y="553"/>
+      <point x="245" y="553" type="curve" smooth="yes"/>
+      <point x="261" y="553"/>
+      <point x="274" y="566"/>
+      <point x="274" y="582" type="curve" smooth="yes"/>
+      <point x="274" y="598"/>
+      <point x="261" y="611"/>
+      <point x="245" y="611" type="curve" smooth="yes"/>
+      <point x="228" y="611"/>
+      <point x="215" y="598"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>T.mod03</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

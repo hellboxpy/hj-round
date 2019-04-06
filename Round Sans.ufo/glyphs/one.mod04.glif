@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.mod04" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="274.0" y="513.0" type="curve" smooth="yes"/>
+      <point x="274.0" y="497.0"/>
+      <point x="261.0" y="484.0"/>
+      <point x="244.0" y="484.0" type="curve" smooth="yes"/>
+      <point x="228.0" y="484.0"/>
+      <point x="215.0" y="497.0"/>
+      <point x="215.0" y="513.0" type="curve" smooth="yes"/>
+      <point x="215.0" y="529.0"/>
+      <point x="228.0" y="542.0"/>
+      <point x="244.0" y="542.0" type="curve" smooth="yes"/>
+      <point x="261.0" y="542.0"/>
+      <point x="274.0" y="529.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>one.mod04</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

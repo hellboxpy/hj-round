@@ -1,0 +1,35 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+# classes
+@chars =  [A       B       C       D       E       F       G       H       I       J       K       L       M       N       O       P       Q       R       S       T       U       V       W       X       Y       Z       space       zero       one       two       three       four       five       six       seven       eight       nine];
+@set_1 =  [A.mod01 B.mod01 C.mod01 D.mod01 E.mod01 F.mod01 G.mod01 H.mod01 I.mod01 J.mod01 K.mod01 L.mod01 M.mod01 N.mod01 O.mod01 P.mod01 Q.mod01 R.mod01 S.mod01 T.mod01 U.mod01 V.mod01 W.mod01 X.mod01 Y.mod01 Z.mod01 space.mod01 zero.mod01 one.mod01 two.mod01 three.mod01 four.mod01 five.mod01 six.mod01 seven.mod01 eight.mod01 nine.mod01];
+@set_2 =  [A.mod02 B.mod02 C.mod02 D.mod02 E.mod02 F.mod02 G.mod02 H.mod02 I.mod02 J.mod02 K.mod02 L.mod02 M.mod02 N.mod02 O.mod02 P.mod02 Q.mod02 R.mod02 S.mod02 T.mod02 U.mod02 V.mod02 W.mod02 X.mod02 Y.mod02 Z.mod02 space.mod02 zero.mod02 one.mod02 two.mod02 three.mod02 four.mod02 five.mod02 six.mod02 seven.mod02 eight.mod02 nine.mod02];
+@set_3 =  [A.mod03 B.mod03 C.mod03 D.mod03 E.mod03 F.mod03 G.mod03 H.mod03 I.mod03 J.mod03 K.mod03 L.mod03 M.mod03 N.mod03 O.mod03 P.mod03 Q.mod03 R.mod03 S.mod03 T.mod03 U.mod03 V.mod03 W.mod03 X.mod03 Y.mod03 Z.mod03 space.mod03 zero.mod03 one.mod03 two.mod03 three.mod03 four.mod03 five.mod03 six.mod03 seven.mod03 eight.mod03 nine.mod03];
+@set_4 =  [A.mod04 B.mod04 C.mod04 D.mod04 E.mod04 F.mod04 G.mod04 H.mod04 I.mod04 J.mod04 K.mod04 L.mod04 M.mod04 N.mod04 O.mod04 P.mod04 Q.mod04 R.mod04 S.mod04 T.mod04 U.mod04 V.mod04 W.mod04 X.mod04 Y.mod04 Z.mod04 space.mod04 zero.mod04 one.mod04 two.mod04 three.mod04 four.mod04 five.mod04 six.mod04 seven.mod04 eight.mod04 nine.mod04];
+@set_5 =  [A.mod05 B.mod05 C.mod05 D.mod05 E.mod05 F.mod05 G.mod05 H.mod05 I.mod05 J.mod05 K.mod05 L.mod05 M.mod05 N.mod05 O.mod05 P.mod05 Q.mod05 R.mod05 S.mod05 T.mod05 U.mod05 V.mod05 W.mod05 X.mod05 Y.mod05 Z.mod05 space.mod05 zero.mod05 one.mod05 two.mod05 three.mod05 four.mod05 five.mod05 six.mod05 seven.mod05 eight.mod05 nine.mod05];
+@set_6 =  [A.mod06 B.mod06 C.mod06 D.mod06 E.mod06 F.mod06 G.mod06 H.mod06 I.mod06 J.mod06 K.mod06 L.mod06 M.mod06 N.mod06 O.mod06 P.mod06 Q.mod06 R.mod06 S.mod06 T.mod06 U.mod06 V.mod06 W.mod06 X.mod06 Y.mod06 Z.mod06 space.mod06 zero.mod06 one.mod06 two.mod06 three.mod06 four.mod06 five.mod06 six.mod06 seven.mod06 eight.mod06 nine.mod06];
+@set_7 =  [A.mod07 B.mod07 C.mod07 D.mod07 E.mod07 F.mod07 G.mod07 H.mod07 I.mod07 J.mod07 K.mod07 L.mod07 M.mod07 N.mod07 O.mod07 P.mod07 Q.mod07 R.mod07 S.mod07 T.mod07 U.mod07 V.mod07 W.mod07 X.mod07 Y.mod07 Z.mod07 space.mod07 zero.mod07 one.mod07 two.mod07 three.mod07 four.mod07 five.mod07 six.mod07 seven.mod07 eight.mod07 nine.mod07];
+@set_8 =  [A.mod08 B.mod08 C.mod08 D.mod08 E.mod08 F.mod08 G.mod08 H.mod08 I.mod08 J.mod08 K.mod08 L.mod08 M.mod08 N.mod08 O.mod08 P.mod08 Q.mod08 R.mod08 S.mod08 T.mod08 U.mod08 V.mod08 W.mod08 X.mod08 Y.mod08 Z.mod08 space.mod08 zero.mod08 one.mod08 two.mod08 three.mod08 four.mod08 five.mod08 six.mod08 seven.mod08 eight.mod08 nine.mod08];
+@set_9 =  [A.mod09 B.mod09 C.mod09 D.mod09 E.mod09 F.mod09 G.mod09 H.mod09 I.mod09 J.mod09 K.mod09 L.mod09 M.mod09 N.mod09 O.mod09 P.mod09 Q.mod09 R.mod09 S.mod09 T.mod09 U.mod09 V.mod09 W.mod09 X.mod09 Y.mod09 Z.mod09 space.mod09 zero.mod09 one.mod09 two.mod09 three.mod09 four.mod09 five.mod09 six.mod09 seven.mod09 eight.mod09 nine.mod09];
+@set_10 = [A.mod10 B.mod10 C.mod10 D.mod10 E.mod10 F.mod10 G.mod10 H.mod10 I.mod10 J.mod10 K.mod10 L.mod10 M.mod10 N.mod10 O.mod10 P.mod10 Q.mod10 R.mod10 S.mod10 T.mod10 U.mod10 V.mod10 W.mod10 X.mod10 Y.mod10 Z.mod10 space.mod10 zero.mod10 one.mod10 two.mod10 three.mod10 four.mod10 five.mod10 six.mod10 seven.mod10 eight.mod10 nine.mod10];
+@set_11 = [A.mod11 B.mod11 C.mod11 D.mod11 E.mod11 F.mod11 G.mod11 H.mod11 I.mod11 J.mod11 K.mod11 L.mod11 M.mod11 N.mod11 O.mod11 P.mod11 Q.mod11 R.mod11 S.mod11 T.mod11 U.mod11 V.mod11 W.mod11 X.mod11 Y.mod11 Z.mod11 space.mod11 zero.mod11 one.mod11 two.mod11 three.mod11 four.mod11 five.mod11 six.mod11 seven.mod11 eight.mod11 nine.mod11];
+
+# contextual alternatives
+feature calt {
+	sub @chars by @set_1;
+
+	lookup scan {
+		sub @set_1 @set_1' by @set_2;
+		sub @set_2 @set_1' by @set_3;
+		sub @set_3 @set_1' by @set_4;
+		sub @set_4 @set_1' by @set_5;
+		sub @set_5 @set_1' by @set_6;
+		sub @set_6 @set_1' by @set_7;
+		sub @set_7 @set_1' by @set_8;
+		sub @set_8 @set_1' by @set_9;
+		sub @set_9 @set_1' by @set_10;
+		sub @set_10 @set_1' by @set_11;
+	} scan;
+
+} calt;

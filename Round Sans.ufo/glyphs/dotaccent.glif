@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="500"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="88.0615286353" y="694.326165638" type="curve" smooth="yes"/>
+      <point x="100.298062593" y="694.326165638"/>
+      <point x="110.309772195" y="684.314456036"/>
+      <point x="110.309772195" y="672.077922078" type="curve" smooth="yes"/>
+      <point x="110.309772195" y="659.84138812"/>
+      <point x="100.298062593" y="649.829678518"/>
+      <point x="88.0615286353" y="649.829678518" type="curve" smooth="yes"/>
+      <point x="75.8249946775" y="649.829678518"/>
+      <point x="65.8132850756" y="659.84138812"/>
+      <point x="65.8132850756" y="672.077922078" type="curve" smooth="yes"/>
+      <point x="65.8132850756" y="684.314456036"/>
+      <point x="75.8249946775" y="694.326165638"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
