@@ -6,11 +6,12 @@ name = "pypi"
 [dev-packages]
 
 [packages]
-fontmake = "*"
 ttfautohint-py = "*"
 afdko = "*"
 fonttools = "*"
-hellbox = {editable = true,git = "git@github.com/hellboxpy/hellbox.git"}
+hellbox-fontmake = "*"
+hellbox = "*"
+hellbox-dsig = "*"
 
 [requires]
 python_version = "3.7.3"

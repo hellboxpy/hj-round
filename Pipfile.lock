@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bbbf260ec10107ffb1fa4e5f87953155ecb3c8c8f5904732a651e23735c8eaf7"
+            "sha256": "d946089ba31364d305726775a5c7607cd0fc0c3757303941a3db4be95d8db9f3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -111,7 +111,6 @@
                 "sha256:b9d31db71ff6d4e52de56631c4d5b743e32fa77f9cc855af5081f08ea8952328",
                 "sha256:ea76f5a0c76966399bb5a8863da8bc90f5a1b46e70b537387ec86ce0a0d8f072"
             ],
-            "index": "pypi",
             "version": "==1.9.1"
         },
         "fontmath": {
@@ -169,9 +168,28 @@
             "version": "==3.3.0"
         },
         "hellbox": {
-            "editable": true,
-            "git": "git@github.com/hellboxpy/hellbox.git",
-            "ref": "00b23cff70c99c0b424d7e6ff86d7d7b5c86acdf"
+            "hashes": [
+                "sha256:08f6b08d6796fc4edaefb4b8cacee57e79d8c1628112b297702d4e1479ab51b7",
+                "sha256:23ac513d45ef32f9ba692c9213900e551f361a4724c14afbe465f2e9cb665c3d"
+            ],
+            "index": "pypi",
+            "version": "==0.1.3"
+        },
+        "hellbox-dsig": {
+            "hashes": [
+                "sha256:00761424db7b66e351b041534ffe9af53853b4261a9f6c32aa4fd5a1a96bfa12",
+                "sha256:61fc5f97a4eeae0aef9be13f2b671018871ae438a2cd695f88d9275e2484a200"
+            ],
+            "index": "pypi",
+            "version": "==0.1.0"
+        },
+        "hellbox-fontmake": {
+            "hashes": [
+                "sha256:40518068db52fca87e34a0f95c7541d3c85344e1d8db92e4f564ec55e640b41b",
+                "sha256:f39462901ce6a460a860efaad2ef7256541decdcef8c84ff07176197cd37f594"
+            ],
+            "index": "pypi",
+            "version": "==0.1.1"
         },
         "lxml": {
             "hashes": [
@@ -261,10 +279,10 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:32b0891edff07e28efe91284ed9c31e123d84bea3fd98e1f72be2508f43ef8d9",
-                "sha256:d5f05e487007e29e03409f9398d074e158d920d36eb82eaf66fb1136b0c5374c"
+                "sha256:303879e36b721603cc54604edcac9d20401bdbe31e1e4fdee5b9f98d5d31dfda",
+                "sha256:d747dd3d23d77ef44c6a3526e274af6efeb0a6f1afd5a69ba4d5be4098c8e141"
             ],
-            "version": "==2018.9"
+            "version": "==2019.1"
         },
         "six": {
             "hashes": [
@@ -275,14 +293,13 @@
         },
         "ttfautohint-py": {
             "hashes": [
-                "sha256:59fa3b0aba2f9dbbd0ac053336f9bd82e54aaafe808fe01aa3605ba45f38dc7e",
-                "sha256:629edf70a125e8fd3be2f46c28d5418a5deb4ab0cc5b304c20273c36911fd6af",
-                "sha256:645693bdcea4740b82826c26130f8bdbac1dfdb53a2b3a1e5ca0258f034edbad",
-                "sha256:e6c8d7727d581ab747e0b237eb0a50bc660b9f5418d8df26f5e1a6b08be48615",
-                "sha256:e8888c785be4ec0714120ffc5a103ee1ab42ddc71dedc816d5836757d8799d55"
+                "sha256:4b227adceda5d6e8cb7fa7a952fc32b375d66bf36d02368710b096a1dc51bebb",
+                "sha256:ba17f6f1cb8ab4927725d995e5b04d7ea7ad182262f879a0939010a1039102a8",
+                "sha256:ceaac02b3e63c2b9edabb24af777d5ab0fcde568540f9a919b73a37c92c585cb",
+                "sha256:f000fe9d99ab75e2fc6ca4bb7161ddf392974a86dca878a92484498489759d03"
             ],
             "index": "pypi",
-            "version": "==0.4.2"
+            "version": "==0.4.3"
         },
         "ufo2ft": {
             "hashes": [

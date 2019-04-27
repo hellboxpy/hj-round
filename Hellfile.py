@@ -1,13 +1,13 @@
 from hellbox import Hellbox
+from hellbox.jobs.dsig import InsertDummyDsig
+from hellbox.jobs.fontmake import GenerateOtf, GenerateTtf
 
 from lib.autohint import Autohint
-from lib.dsig import DummyDsig
-from lib.fontmake import GenerateOtf, GenerateTtf
 from lib.woff import GenerateWoff
 from lib.woff2 import GenerateWoff2
 
 
-PostProduction = Hellbox.compose(DummyDsig(), Autohint())
+PostProduction = Hellbox.compose(InsertDummyDsig(), Autohint())
 
 
 Hellbox.default = "build"
