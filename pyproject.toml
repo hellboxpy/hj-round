@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hj-round"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "hellbox",
+    "hellbox-dsig",
+    "hellbox-fontmake",
+    "hellbox-ttfautohint",
+    "hellbox-woff2",
+]
+
+[tool.uv.sources]
+hellbox = { git = "https://github.com/hellboxpy/hellbox.git" }
+hellbox-dsig = { git = "https://github.com/hellboxpy/hellbox-dsig.git" }
+hellbox-fontmake = { git = "https://github.com/hellboxpy/hellbox-fontmake.git" }
+hellbox-ttfautohint = { git = "https://github.com/hellboxpy/hellbox-ttfautohint.git" }
+hellbox-woff2 = { git = "https://github.com/hellboxpy/hellbox-woff2.git" }
