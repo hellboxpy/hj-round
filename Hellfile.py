@@ -10,7 +10,8 @@ with Hellbox("build") as task:
     task.describe("Builds font files from source")
 
     source = task.read("source/*.ufo")
-    source >> GenerateOtf() >> InsertDummyDsig() >> Autohint() >> task.write("build/otf")
+    source >> GenerateOtf() >> InsertDummyDsig() >> task.write("build/otf")
+
     ttf = source >> GenerateTtf() >> InsertDummyDsig() >> Autohint()
     ttf >> task.write("build/ttf")
     ttf >> GenerateWoff2() >> task.write("build/woff2")
