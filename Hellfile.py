@@ -8,6 +8,7 @@ Hellbox.default = "build"
 
 with Hellbox("build") as task:
     task.describe("Builds font files from source")
+    task.clean("build")
 
     source = task.read("source/*.ufo")
     source >> GenerateOtf() >> InsertDummyDsig() >> task.write("build/otf")
