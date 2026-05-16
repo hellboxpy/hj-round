@@ -14,6 +14,9 @@ dependencies = [
     "hellbox-woff2",
 ]
 
+[dependency-groups]
+dev = ["mdformat"]
+
 [tool.uv.sources]
 hellbox = { git = "https://github.com/hellboxpy/hellbox.git" }
 hellbox-dsig = { git = "https://github.com/hellboxpy/hellbox-dsig.git" }
